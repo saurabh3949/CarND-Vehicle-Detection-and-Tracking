@@ -68,7 +68,8 @@ A threshold is applied to the heatmap (in this example, with a value of 1), sett
 
 ![heatmap](./examples/heat2.png?raw=true)
 
-The `scipy.ndimage.measurements.label()` function collects spatially contiguous areas of the heatmap and assigns each a label:
+The `scipy.ndimage.measurements.label()` function collects spatially contiguous areas of the heatmap and assigns each a label:  
+
 ![heatmap](./examples/heat3.png?raw=true)
 
 
